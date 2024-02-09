@@ -140,6 +140,7 @@
     <ClInclude Include="framewriter.h" />
     <ClInclude Include="frame.h" />
     <ClInclude Include="renderer.h" />
+    <ClInclude Include="shape.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
